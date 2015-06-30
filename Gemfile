@@ -3,7 +3,8 @@ source 'https://rubygems.org'
 ruby '2.2.2'
 gem 'rails', '4.2.1'
 gem 'protected_attributes'
-
+gem 'activeresource'
+gem 'activerecord-deprecated_finders'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
@@ -18,8 +19,6 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails'
   gem 'simplecov'
-  gem 'activeresource'
-  gem 'activerecord-deprecated_finders'
 end
 group :production do
   gem 'pg'

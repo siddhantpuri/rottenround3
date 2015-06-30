@@ -153,3 +153,211 @@ ActiveRecord::StatementInvalid (Could not find table 'movies'):
   app/controllers/movies_controller.rb:36:in `index'
 
 
+Started GET "/movies" for ::1 at 2015-06-29 17:08:09 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.3ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:10 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:10 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:11 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:11 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:12 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:55 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:08:55 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/assets/rails.png" for ::1 at 2015-06-29 17:09:04 -0700
+Started GET "/movies" for ::1 at 2015-06-29 17:09:08 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:09:11 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:09:11 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:09:11 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:17 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.3ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:18 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:19 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:19 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.2ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:19 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:20 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:20 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:20 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:21 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.3ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:21 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:21 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.5ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:22 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Started GET "/movies" for ::1 at 2015-06-29 17:12:22 -0700
+Processing by MoviesController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ActiveRecord::StatementInvalid (Could not find table 'movies'):
+  app/controllers/movies_controller.rb:36:in `index'
+
+
+Migrating to CreateMovies (20111119180638)
+Started GET "/movies" for ::1 at 2015-06-29 17:13:19 -0700
+Processing by MoviesController#index as HTML
+  Rendered movies/index.html.haml within layouts/application (7.7ms)
+Completed 200 OK in 308ms (Views: 294.3ms | ActiveRecord: 0.9ms)
+Started GET "/assets/application-a2d4d09977b897a787cbbb33d40f7cfe7be49b3706bc4ba8f57efd29c6002c87.css" for ::1 at 2015-06-29 17:13:19 -0700
+Started GET "/assets/application-2296dae92953bf51050b87d1bf05ba6b7d7a6bb561391d5c02cab9605982ef98.js" for ::1 at 2015-06-29 17:13:19 -0700
